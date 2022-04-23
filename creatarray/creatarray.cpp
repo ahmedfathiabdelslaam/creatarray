@@ -199,7 +199,7 @@ int main()
 
     // start enlarge array
     
-    cout << "enter new size array \n";
+    cout << "enter the new size array \n";
     int newsize;
     cin >> newsize;
     myarray.enlarge(newsize);
